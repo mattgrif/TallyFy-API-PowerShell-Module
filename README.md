@@ -1,1 +1,1 @@
-TallyFy API PowerShell Module
+TallyFy API PowerShell Module that will connect to their API using OAuth 2.0. https://tallyfy.com/integrations/
